@@ -1,0 +1,5 @@
+###Django
+.env/
+media
+img/
+db.sqlite3
