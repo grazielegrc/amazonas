@@ -1,7 +1,7 @@
 #lista das dependências(libs). Ele vai instalar apartir desse arquivo usando o comando: pip install -r requirements.txt
 
 dj-database-url==0.5.0
-Django==2.2.3
+Django==2.2.13
 djangorestframework==3.10.2
 gunicorn==19.9.0
 Pillow==6.1.0
